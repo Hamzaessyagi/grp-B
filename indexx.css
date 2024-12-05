@@ -1,12 +1,34 @@
-h5{
-    color:yellow
+.1er{
+text-align : center;
+color : green;
 }
-h1{
-    color:red
+.2eme{
+    text-align : center;
+    color : red;
 }
-span {
-    color: blue;
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana;
-    font-weight: 900; 
+.premier{
+text-align: center;
+font-size: 50px;
 
+}
+.deuxieme{
+
+    text-align: center;
+    font-size: 10px;
+}
+.div1{
+    width : 200px;
+    height: 200px;
+    color: red;
+    margin-top: 3px;
+    background: red;
+    border-radius: 100px;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    color: violet;
+    margin-top: 10px;
+    background: violet;
+    border-radius: 100px;
 }
